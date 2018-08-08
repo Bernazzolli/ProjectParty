@@ -1,2 +1,2 @@
 # ProjectParty
-A personal project of gradutaion
+A project of a group of buddys
