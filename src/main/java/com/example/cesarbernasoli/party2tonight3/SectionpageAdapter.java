@@ -1,17 +1,12 @@
-package com.example.cesarbernasoli.party2tonight3;
+package com.example.cesarbernasoli.projectparty;
 
-
-
+import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * Created by User on 2/28/2017.
- */
 
 public class SectionpageAdapter extends FragmentPagerAdapter {
 
